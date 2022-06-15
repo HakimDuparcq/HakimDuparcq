@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/YmhQu8lJ9dnGeAVd8g/giphy.gif" width="300" height="300"  />  </p>
 
-### 🧑 About Me <img src="https://media.giphy.com/media/5cnEDRXsyAss8/giphy.gif" width="110"/>
+### 🧑 About Me 
 
 I am a Digital Ingineer based in France.
 
