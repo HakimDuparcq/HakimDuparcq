@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/YmhQu8lJ9dnGeAVd8g/giphy.gif" width="480" height="480"  />   <img src="https://media.giphy.com/media/5cnEDRXsyAss8/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/YmhQu8lJ9dnGeAVd8g/giphy.gif" width="480" height="480"  />  </p>
 
 ### 🧑 About Me <img src="https://media.giphy.com/media/5cnEDRXsyAss8/giphy.gif" width="100"/>:‍
 
