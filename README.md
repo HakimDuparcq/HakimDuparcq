@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/YmhQu8lJ9dnGeAVd8g/giphy.gif" width="480" height="480"  /></p>
 
-### About Me :
+### 🧑 About Me :‍
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
