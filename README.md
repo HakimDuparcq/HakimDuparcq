@@ -13,7 +13,7 @@ I am a Full Stack Developer from India.
 - 🔭 I am a video game programmer based in France.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://hakimduparcq.github.io/)
+- 📫 How to reach me: ```hakim.duparcq@gmail.com```
 
 ---
 
