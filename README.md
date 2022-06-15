@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://hakimduparcq.github.io/"><img src="https://img.shields.io/badge/-My%20Portfolio-red"  width="120" ></a>
+<a href="https://hakimduparcq.github.io/"><img src="https://img.shields.io/badge/-My%20Portfolio-red" alt="Logo" width="120" ></a>
 <a href="https://www.linkedin.com/in/hakim-duparcq-197968205/"><img src="https://img.shields.io/badge/-Linkedin-blue"  width="90" ></a>
 </p>
 
