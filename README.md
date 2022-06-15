@@ -10,7 +10,7 @@
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://giphy.com/gifs/game-art-sprite-animation-gradu8-YmhQu8lJ9dnGeAVd8g" width="600" height="300"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/YmhQu8lJ9dnGeAVd8g/giphy.gif" width="600" height="300"  /></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
