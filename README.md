@@ -1,7 +1,6 @@
 <p align="center">
-<a href="https://hakimduparcq.github.io/"><img src="https://img.shields.io/badge/-My%20Portfolio-red"  width="150" ></a>
-<a href="https://www.linkedin.com/in/hakim-duparcq-197968205/"><img src="https://img.shields.io/badge/-Linkedin-blue"  width="150" ></a>
-<a href="https://www.linkedin.com/in/hakim-duparcq-197968205/"><img src="https://img.shields.io/badge/-Linkedin-blue"  width="150" ></a>
+<a href="https://hakimduparcq.github.io/"><img src="https://img.shields.io/badge/-My%20Portfolio-red"  width="120" ></a>
+<a href="https://www.linkedin.com/in/hakim-duparcq-197968205/"><img src="https://img.shields.io/badge/-Linkedin-blue"  width="100" ></a>
 </p>
 
 
@@ -31,5 +30,5 @@ I am a Full Stack Developer from India.
 
 
 ### ✍️ Blog : 
-- [My Portfoli](https://hakimduparcq.github.io/)
+- [My Portfolio](https://hakimduparcq.github.io/)
 
