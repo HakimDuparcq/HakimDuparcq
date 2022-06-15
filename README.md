@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://hakimduparcq.github.io/" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio-red"  width="120" ></a>
-<a href="https://www.linkedin.com/in/hakim-duparcq-197968205/"><img src="https://img.shields.io/badge/-Linkedin-blue"  width="100" ></a>
+<a href="https://hakimduparcq.github.io/"><img src="https://img.shields.io/badge/-My%20Portfolio-red"  width="120" ></a>
+<a href="https://www.linkedin.com/in/hakim-duparcq-197968205/"><img src="https://img.shields.io/badge/-Linkedin-blue"  width="90" ></a>
 </p>
 
 
@@ -8,11 +8,11 @@
 
 ### 🧑 About Me <img src="https://media.giphy.com/media/5cnEDRXsyAss8/giphy.gif" width="110"/>
 
-I am a Full Stack Developer from India.
+I am a Digital Ingineer based in France.
 
-- 🔭 I am a video game programmer based in France.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- 🔭 I'm a video game programer student.
+- 🌱 Passionate and Team spirit.
+- ⚡ In my free time I work on my personal game project : DeathRun *.
 - 📫 How to reach me: ```hakim.duparcq@gmail.com```
 
 ---
