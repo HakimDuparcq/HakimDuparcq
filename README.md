@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://hakimduparcq.github.io/"><img src="https://img.shields.io/badge/-My%20Portfolio-blue"  width="40" ></a>
+<a href="https://hakimduparcq.github.io/"><img src="https://img.shields.io/badge/-My%20Portfolio-blue"  width="400" ></a>
 </p>
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
