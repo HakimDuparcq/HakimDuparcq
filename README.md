@@ -3,11 +3,11 @@
 </p>
 
 
-<p align="center"><img src="https://media.giphy.com/media/YmhQu8lJ9dnGeAVd8g/giphy.gif" width="480" height="480"  />  </p>
+<p align="center"><img src="https://media.giphy.com/media/YmhQu8lJ9dnGeAVd8g/giphy.gif" width="300" height="300"  />  </p>
 
-### 🧑 About Me <img src="https://media.giphy.com/media/5cnEDRXsyAss8/giphy.gif" width="110"/>:‍
+### 🧑 About Me <img src="https://media.giphy.com/media/5cnEDRXsyAss8/giphy.gif" width="110"/>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer from India.
 
 - 🔭 I am a video game programmer based in France.
 - 🌱 Exploring Technical Content Writing.
