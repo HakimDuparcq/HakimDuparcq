@@ -12,7 +12,7 @@ I am a Digital Ingineer based in France.
 
 - 🔭 I'm a video game programer student.
 - 🌱 Passionate and Team spirit.
-- ⚡ In my free time I work on my personal game project : DeathRun *.
+- ⚡ In my free time I work on my personal game project : DeathRun.
 - 📫 How to reach me: ```hakim.duparcq@gmail.com```
 
 ---
